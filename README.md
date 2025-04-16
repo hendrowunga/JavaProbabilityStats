@@ -51,8 +51,8 @@ This project is suitable for learning basic probability/statistics concepts or a
 
 1.  **Clone or Download the Repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-    cd YOUR_REPOSITORY_NAME
+    git clone https://github.com/hendrowunga/JavaProbabilityStats.git
+    cd JavaProbabilityStats
     ```
     Alternatively, download the ZIP file and extract it.
 
